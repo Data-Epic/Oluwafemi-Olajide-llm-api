@@ -33,8 +33,6 @@ An AI-powered chatbot that assists users by answering frequently asked questions
 
 ##  Screenshots
 
-> Add your screenshots to a `screenshots/` folder and use these placeholders.
-
 ###  Streamlit Chatbot UI
 
 ![Chat UI Screenshot](chat_ui_1.png)  
