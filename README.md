@@ -37,10 +37,10 @@ An AI-powered chatbot that assists users by answering frequently asked questions
 
 ###  Streamlit Chatbot UI
 
-![Chat UI Screenshot](screenshots/chat_ui_1.png)  
+![Chat UI Screenshot](chat_ui_1.png)  
 *Fig: Example showing how the assistant handles a fraud case inquiry.*
 
-![FAQ Match Screenshot](screenshots/faq_match.png)  
+![FAQ Match Screenshot](faq_match.png)  
 *Fig: Response matched from `faq_data.json`.*
 
 ---
