@@ -1,0 +1,22 @@
+# Ignore environment file
+.env
+
+venv/
+
+# Ignore chat history and sensitive JSON data
+chat_history.json
+
+# Python cache and compiled files
+__pycache__/
+*.py[cod]
+
+# Pytest cache
+.pytest_cache/
+.vscode/
+
+# Ignore screenshots or temporary files if added later
+screenshots/
+
+# Ignore OS-specific files
+.DS_Store
+Thumbs.db

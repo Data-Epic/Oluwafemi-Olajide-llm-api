@@ -1,0 +1,47 @@
+[
+  {
+    "question": "How do I reset my online banking password?",
+    "answer": "To reset your password, go to the login page and click 'Forgot Password'. Follow the instructions sent to your registered email or phone number."
+  },
+  {
+    "question": "How can I block my debit card?",
+    "answer": "To block your card, go to 'Card Management' in the app or call our 24/7 support hotline immediately."
+  },
+  {
+    "question": "What should I do if I notice suspicious activity on my account?",
+    "answer": "Please report suspicious activity immediately through the app or call our fraud support line. We'll freeze your account temporarily and investigate."
+  },
+  {
+    "question": "How do I open a savings account?",
+    "answer": "You can open a savings account directly in the app by tapping 'Open New Account' or visiting any branch with a valid ID."
+  },
+  {
+    "question": "Are there any fees for international transactions?",
+    "answer": "Yes, international transactions may incur currency conversion fees and bank charges. Check our pricing guide for full details."
+  },
+  {
+    "question": "How long does it take for a transfer to another bank?",
+    "answer": "Transfers to other banks typically take 1–2 business days, depending on the receiving bank and transfer method."
+  },
+  {
+    "question": "What is the maximum I can transfer per day?",
+    "answer": "The daily transfer limit is ₦500,000 for personal accounts. You can increase your limit by updating your KYC information in the app."
+  },
+  {
+    "question": "How do I get a bank statement?",
+    "answer": "You can download your bank statement from the 'Account Summary' section in the app or request it via email."
+  },
+  {
+    "question": "How can I reset my password?",
+    "answer": "To reset your password, go to the login page and click on 'Forgot Password'. Follow the instructions sent to your email."
+  },
+  {
+    "question": "How do I check my account balance?",
+    "answer": "Log into your account and your balance will be displayed on the dashboard."
+  },
+  {
+    "question": "What should I do if I suspect fraud?",
+    "answer": "Immediately contact our 24/7 fraud support at 0800-123-456 or freeze your card in the app."
+  }
+
+]
